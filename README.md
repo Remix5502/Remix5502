@@ -1,0 +1,6 @@
+- 👋 Hello, I’m Remix5502
+- 👀 I’m interested in programming / history
+- 💻 I’m currently learning javascript
+- 🔗 Contact:
+- **mail:** remix5502@gmail.com
+- **discord:** Remix#5502
