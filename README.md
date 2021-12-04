@@ -2,5 +2,5 @@
 - 👀 I’m interested in programming / history
 - 💻 I’m currently learning javascript
 - 🔗 Contact:
-- **mail:** remix5502@gmail.com
+- **Mail:** remix5502@gmail.com
 - **Discord:** Remix#5502
