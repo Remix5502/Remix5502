@@ -3,4 +3,4 @@
 - 💻 I’m currently learning javascript
 - 🔗 Contact:
 - **mail:** remix5502@gmail.com
-- **discord:** Remix#5502
+- **Discord:** Remix#5502
