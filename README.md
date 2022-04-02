@@ -1,4 +1,4 @@
-- 👋 Hello, I’m Remix5502
+- 👋 Hello, I’m Remix
 - 👀 I’m interested in programming / history
 - 💻 I’m currently learning javascript & cpp game making
 - 🔗 Contact:
